@@ -1,6 +1,7 @@
 # Devops_Learning
 
-Important links
+**Important links**
 
-Practice shell scripting
-https://www.hackerrank.com/domains/shell
+Bash Tutorial - https://www.javatpoint.com/bash
+
+Practice shell scripting - https://www.hackerrank.com/domains/shell
